@@ -3,7 +3,7 @@
 * Date: 28.Oct.2013
 * Description: This program reads a file & Zips or Extracts it.
 * Comment: I was in a puzzle at every step of developing this program, literally! And I am proud
-           that I could solve them all, without any help, myself.
+           that I could solve them all, without any help from internet, myself.
 **/
 
 
@@ -438,6 +438,3 @@ char charToBit(FILE* input){   //reads a file's char and returns one bit as char
     //cout << ch << " ";  ///test
     return ch;
 }
-
-
-
