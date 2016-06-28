@@ -1,4 +1,4 @@
-# FileSqueezer
+# :cyclone: FileSqueezer
 #### Simple File Compressor & Extractor
 
 [This console based software](http://minhaskamal.github.io/FileSqueezer) implements Huffman algorithm for file compression and extraction. It works on all types of files, but is only effective with **text files**.
