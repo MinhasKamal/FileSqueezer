@@ -9,9 +9,9 @@ It may also be used as an encoder; as all secret files can be encoded, & only be
 
 ### Releases
 - <a href="https://github.com/MinhasKamal/FileSqueezer/raw/release/FileSqueezer_v4.2.exe">Version 4.2</a> - Release Date:  28 Oct 2013
-- <a href="https://github.com/MinhasKamal/FileSqueezer/raw/release/FileSqueezer_v4">Version 4</a> - Release Date: 28.Oct.2013
-- <a href="https://github.com/MinhasKamal/FileSqueezer/raw/release/FileSqueezer_v3">Version 3</a> - Release Date: 22 Oct 2013
-- <a href="https://github.com/MinhasKamal/FileSqueezer/raw/release/FileSqueezer_v2">Version 2</a> - Release Date: 22 Oct 2013
+- <a href="https://github.com/MinhasKamal/FileSqueezer/raw/release/FileSqueezer_v4.exe">Version 4</a> - Release Date: 28.Oct.2013
+- <a href="https://github.com/MinhasKamal/FileSqueezer/raw/release/FileSqueezer_v3.exe">Version 3</a> - Release Date: 22 Oct 2013
+- <a href="https://github.com/MinhasKamal/FileSqueezer/raw/release/FileSqueezer_v2.exe">Version 2</a> - Release Date: 22 Oct 2013
 - Version 1 - Release Date: 20 Oct 2013
 
 ### License
