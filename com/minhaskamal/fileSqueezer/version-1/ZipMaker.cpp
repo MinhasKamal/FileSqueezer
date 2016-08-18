@@ -51,7 +51,7 @@ int main(){
 
 
 void charCounter(int* num){
-    input.open("Letter.txt");   //opening the file
+    input.open("Input.txt");   //opening the file
 
     if(!input.is_open()){   //when the file name is wrong
         printf("Sorry the file is not found!");
@@ -154,7 +154,7 @@ void treeBuilder(int* num, node* tree, int x){
 
 
 void zipFileWriter(int* num, node* tree){
-    input.open("Letter.txt");   //opening the file
+    input.open("Input.txt");   //opening the file
 
     if(!input.is_open()){   //when the file name is wrong
         printf("Sorry the file is not found!");
