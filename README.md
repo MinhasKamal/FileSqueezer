@@ -5,6 +5,9 @@
 
 It may also be used as an encoder; as all secret files can be encoded, & only be decoded by this software; and no password needs to be remembered.
 
+### Usage
+![FileSqueezer Useage](https://cloud.githubusercontent.com/assets/5456665/22967898/864b2626-f392-11e6-849c-5789925d976f.gif)
+
 ### Releases
 Windows-32bit
 - <a href="https://github.com/MinhasKamal/FileSqueezer/raw/release/FileSqueezer_v4.2.exe">Version 4.2</a> - Release Date:  28 Oct 2013
