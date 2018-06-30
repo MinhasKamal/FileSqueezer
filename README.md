@@ -1,9 +1,11 @@
 # :cyclone: FileSqueezer
 #### Simple File Compressor & Extractor
 
-[This console based software](http://minhaskamal.github.io/FileSqueezer) implements Huffman algorithm for file compression and extraction. It works on all types of files, but is only effective with **text files**.
+This console based software implements Huffman algorithm for file compression and extraction. It works on all types of files, but is only effective with **text files**.
 
 It may also be used as an encoder; as all secret files can be encoded, & only be decoded by this software; and no password needs to be remembered.
+
+[Background Story](https://www.quora.com/What-is-the-coolest-thing-you-have-ever-created-alone-as-a-programmer/answer/Minhas-Kamal?srid=u2HNX)
 
 ### Usage
 ![FileSqueezer Useage](https://cloud.githubusercontent.com/assets/5456665/22967898/864b2626-f392-11e6-849c-5789925d976f.gif)
